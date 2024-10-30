@@ -1,0 +1,30 @@
+h1{
+color :red;
+font-size: 25px;
+
+}
+
+.texteRouge{
+    color: red;
+}
+.textegros{
+    font-size: 64px;
+}
+
+.bgPink {
+background-color: pink;
+}
+
+.Bouton{
+    background-color: rgb(62, 158, 241);
+    font-size: "30px";
+    color: white;
+    text-decoration: none;
+    border-radius: 10px; /* je créer un arrondi de 10px dans les angles*/
+    padding: 10px 90px; /**/
+    border: 4px solid rgb(222, 108, 47);
+}
+
+    .textCentrer {
+    text-align: center;
+    }
