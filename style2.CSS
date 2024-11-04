@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 section{
     height: 100vh;
     width: 50%;
@@ -14,4 +16,33 @@ height: 100px;
 background-color: blueviolet;
 display: inline-block;
 }
-.boxbgPurple
+
+.bouton{
+    display: block;
+    text-decoration: none;
+    width: fit-content;
+    padding: 16px 32px;
+    margin-bottom: 10px;
+    font-family: "Inter", sans-serif;
+}
+
+.bordure-pleine{
+    border: solid 1px black;
+}
+
+.border-dashed{
+    border: dashed 5px black;
+}
+
+.backgroung-green{
+    background-color: green;
+}
+
+.background-blue{
+    background-color: blue;
+}
+
+.border-radius-32{
+    border-radius: 30px;
+}
+
