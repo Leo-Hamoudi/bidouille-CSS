@@ -28,3 +28,14 @@ background-color: pink;
     .textCentrer {
     text-align: center;
     }
+
+    
+/*Designer la card*/
+
+.card{
+    width: 300px;
+    box-shadow: 4px 4px 12px #00000025; 
+    border-radius: 16px;
+    padding: 8px;
+    font-family: 'Inter','sans-serif';
+}
